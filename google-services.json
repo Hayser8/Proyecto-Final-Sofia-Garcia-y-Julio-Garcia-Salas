@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153888921853",
+    "project_id": "proyectoplatsreal",
+    "storage_bucket": "proyectoplatsreal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153888921853:android:1c9196c96023db9db68694",
+        "android_client_info": {
+          "package_name": "com.example.proyectoplatsreal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaXxW2vqWZvnRQ0lnIpAXvzkgNLTH6A14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

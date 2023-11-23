@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectoPlatsreal</string>
+    <!-- ... Listening ... -->
+    <string name="listening">Listening</string>
+    <string name="logo_description">Logo</string>
+    <string name="publish_song">Publish what you are listening to right now!</string>
+    <string name="feed">Feed</string>
+    <!-- ... Posting ... -->
+    <string name="song_name_label">Song Name</string>
+    <string name="artist_name_label">Song Artist</string>
+    <string name="publish">Publish</string>
+    <!-- ... Create Playlist ... -->
+    <string name="playlists">Playlists</string>
+    <string name="genre">Genre</string>
+    <string name="artist">Artist</string>
+    <string name="generate">Generate</string>
+    <string name="enter_playlist_genre">Enter the playlist genre</string>
+    <string name="enter_playlist_artist">Enter the playlist artist</string>
+    <!-- ... Generated Playlist Screen ... -->
+    <string name="back_content_description">Go Back</string>
+    <string name="generatedplaylist">Most popular results of your search</string>
+    <!-- ... GenreDisplay ... -->
+    <string name="successful_songs_genre">Most successful songs of %1$s</string>
+    <!-- ... Genre Track Card ... -->
+    <string name="song_image_description">Song Image</string>
+    <string name="song_artist_format">%1$s - %2$s</string>
+    <string name="listen_on_spotify">Listen on Spotify</string>
+    <!-- ... Main ... -->
+    <string name="search_hint">What do you want to search for?</string>
+    <string name="search_icon_description">Search</string>
+    <string name="genre_image_description">Image of %1$s</string>
+    <!-- ... Search Result Display ... -->
+    <string name="search_results_title">Most popular results of your search</string>
+    <string name="search_recommendations_title">Recommendations based on your search</string>
+    <!-- Bottom Navigation Tabs -->
+    <string name="tab_settings">Settings</string>
+    <string name="tab_playlists">Playlists</string>
+    <string name="tab_listening">Listening</string>
+    <string name="tab_search">Search</string>
+    <!-- ... otras cadenas ... -->
+    <string name="settings_title">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="select_language">Select a language</string>
+    <!-- Language names -->
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+</resources>
